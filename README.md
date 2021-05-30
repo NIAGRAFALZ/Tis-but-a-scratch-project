@@ -1,4 +1,4 @@
-## There's an embed code in the 3rd branch! Try to find it!
+## There's an embed code in the 3rd(Scratch Branch) branch! Try to find it!
 ## WARNING: PREPARE YOUR PATIENCE
 
 # Tis-but-a-scratch-project
