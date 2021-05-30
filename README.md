@@ -1,3 +1,6 @@
+## There's an embed code in the 3rd branch! Try to find it!
+## WARNING: PREPARE YOUR PATIENCE
+
 # Tis-but-a-scratch-project
 MEMEACUSS SCRATCHACUSS
 
